@@ -5,7 +5,7 @@ Este é um bot de economia para Discord que permite aos usuários gerenciar uma 
 ## Funcionalidades
 
 - **Verificar saldo**: Os usuários podem verificar quantas coins possuem.
-- **Transferir Zcoins**: Os usuários podem transferir coins para outros usuários.
+- **Transferir Coins**: Os usuários podem transferir coins para outros usuários.
 - **Extrato**: Os usuários podem ver as últimas transações realizadas.
 
 ## Requisitos
@@ -13,6 +13,11 @@ Este é um bot de economia para Discord que permite aos usuários gerenciar uma 
 - Python 3.10.x
 - MongoDB para armazenar os dados
 - BOT Discord
+
+## Como usar
+/saldo: Verifique seu saldo de Coins.
+/pix @usuário valor: Transfira Coins para outro usuário.
+/extrato: Veja as últimas transações.
 
 ## Instalação
 
