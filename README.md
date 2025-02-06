@@ -15,9 +15,9 @@ Este é um bot de economia para Discord que permite aos usuários gerenciar uma 
 - BOT Discord
 
 ## Como usar
-/saldo: Verifique seu saldo de Coins.
-/pix @usuário valor: Transfira Coins para outro usuário.
-/extrato: Veja as últimas transações.
+- /saldo: Verifique seu saldo de Coins.
+- /pix @usuário valor: Transfira Coins para outro usuário.
+- /extrato: Veja as últimas transações.
 
 ## Instalação
 
@@ -26,10 +26,10 @@ Este é um bot de economia para Discord que permite aos usuários gerenciar uma 
    git clone https://github.com/RashParasita/BOT_BANCO_DISCORD.git
    cd BOT_BANCO_DISCORD
 
-2. Instale requirements.txt
+2. Instale requirements.txt:
    ```bash
     pip install -r requirements.txt
 
-3. Execute
+3. Execute:
    ```bash
    python src/main.py
