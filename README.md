@@ -4,15 +4,15 @@ Este é um bot de economia para Discord que permite aos usuários gerenciar uma 
 
 ## Funcionalidades
 
-- **Verificar saldo**: Os usuários podem verificar quantos Zcoins possuem.
-- **Transferir Zcoins**: Os usuários podem transferir Zcoins para outros usuários.
+- **Verificar saldo**: Os usuários podem verificar quantas coins possuem.
+- **Transferir Zcoins**: Os usuários podem transferir coins para outros usuários.
 - **Extrato**: Os usuários podem ver as últimas transações realizadas.
 
 ## Requisitos
 
 - Python 3.10.x
 - MongoDB para armazenar os dados
-- BOT no Discord
+- BOT Discord
 
 ## Instalação
 
@@ -20,3 +20,11 @@ Este é um bot de economia para Discord que permite aos usuários gerenciar uma 
    ```bash
    git clone https://github.com/RashParasita/BOT_BANCO_DISCORD.git
    cd BOT_BANCO_DISCORD
+
+2. Instale requirements.txt
+   ```bash
+    pip install -r requirements.txt
+
+3. Execute
+   ```bash
+   python src/main.py
