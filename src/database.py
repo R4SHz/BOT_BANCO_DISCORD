@@ -5,7 +5,7 @@ from pymongo.errors import PyMongoError
 
 load_dotenv()
 
-# Conexão com o MongoDB usando motor (assíncrono)
+# Conexão com o MongoDB usando motor
 MONGO_URI = os.getenv("MONGODB")
 if not MONGO_URI:
     raise ValueError("Token do MongoDB não encontrado no .env")
