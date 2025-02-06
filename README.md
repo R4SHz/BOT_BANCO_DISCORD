@@ -26,10 +26,15 @@ Este é um bot de economia para Discord que permite aos usuários gerenciar uma 
    git clone https://github.com/RashParasita/BOT_BANCO_DISCORD.git
    cd BOT_BANCO_DISCORD
 
-2. Instale requirements.txt:
+2. Insira seus dados no .env
+   ```bash
+   MONGODB=sua_mongodb_url_aqui
+   TOKEN_BOT=seu_bot_token_aqui
+
+4. Instale requirements.txt:
    ```bash
     pip install -r requirements.txt
 
-3. Execute:
+5. Execute:
    ```bash
    python src/main.py
