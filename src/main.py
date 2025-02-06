@@ -37,7 +37,6 @@ async def saldo(interaction: discord.Interaction):
 
 import logging
 
-# Configuração básica de logging
 logging.basicConfig(level=logging.ERROR)
 
 @tree.command(name='pix', description='Transfira Zcoins para outro jogador')
