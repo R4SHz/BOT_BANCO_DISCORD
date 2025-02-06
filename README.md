@@ -1,6 +1,6 @@
 # Bot de Economia para Discord
 
-Este é um bot de economia para Discord que permite aos usuários gerenciar uma moeda virtual chamada "Zcoins". Os usuários podem verificar seu saldo, transferir Zcoins para outros usuários e verificar o extrato de transações.
+Este é um bot de economia para Discord que permite aos usuários gerenciar uma moeda virtual. Os usuários podem verificar seu saldo, transferir para outros usuários e verificar o extrato de transações.
 
 ## Funcionalidades
 
