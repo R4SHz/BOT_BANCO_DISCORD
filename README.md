@@ -18,5 +18,5 @@ Este é um bot de economia para Discord que permite aos usuários gerenciar uma 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/meu-bot-discord.git
-   cd meu-bot-discord
+   git clone https://github.com/RashParasita/BOT_BANCO_DISCORD.git
+   cd BOT_BANCO_DISCORD
